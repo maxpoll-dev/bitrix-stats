@@ -9,7 +9,12 @@ DOCKER  := docker compose -f docker-compose.yml
 up:
 	$(DOCKER) up -d
 
-# Выключаем контейнеры и сносим данные
+# Рестарт с очищением данных
+restart:
+	$(DOCKER) down -v
+	$(DOCKER) up -d
+
+# Выключаем контейнеры и чистим данные
 down:
 	$(DOCKER) down -v
 
