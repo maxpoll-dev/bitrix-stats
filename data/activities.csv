@@ -1,0 +1,5 @@
+activity_id,deal_id,activity_type,direction,subject,responsible_user_id,completed,deadline_at,completed_at
+A900,D1001,call,outbound,Первичный звонок,U10,true,2026-06-03T12:00:00+05:00,2026-06-03T13:00:00+05:00
+A901,D1002,email,outbound,КП,U11,true,2026-06-04T10:00:00+05:00,2026-06-04T09:40:00+05:00
+A902,D1005,task,,Проверить оплату,U11,false,2026-06-07T18:00:00+05:00,
+A903,D9999,call,inbound,Звонок без сделки,U10,true,2026-06-08T10:00:00+05:00,2026-06-08T10:10:00+05:00

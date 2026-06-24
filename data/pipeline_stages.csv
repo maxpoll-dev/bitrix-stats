@@ -1,0 +1,10 @@
+pipeline_id,stage_id,stage_name,sort_order,is_final,is_success
+sales-main,NEW,Новая заявка,10,false,false
+sales-main,QUALIFICATION,Квалификация,20,false,false
+sales-main,CALCULATION,Расчет,30,false,false
+sales-main,PROPOSAL,КП отправлено,40,false,false
+sales-main,CONTRACT,Договор,50,false,false
+sales-main,PRODUCTION,В производстве,60,false,false
+sales-main,SHIPPED,Отгружено,70,false,false
+sales-main,WON,Успешно,80,true,true
+sales-main,LOST,Проиграно,90,true,false

@@ -1,0 +1,5 @@
+production_order_id,deal_id,created_at,planned_finish_at,actual_finish_at,status,workshop
+PO001,D1001,2026-06-02T08:00:00+05:00,2026-06-12,,in_progress,Цех 1
+PO002,D1003,2026-06-05T09:00:00+05:00,2026-06-10,2026-06-12,done,Цех 2
+PO003,D1005,2026-06-01T09:00:00+05:00,2026-06-08,2026-06-14,done,Цех 1
+PO004,D9999,2026-06-10T09:00:00+05:00,2026-06-20,,planned,Цех 3

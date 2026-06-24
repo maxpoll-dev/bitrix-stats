@@ -1,0 +1,7 @@
+payment_id,deal_id,payment_date,amount,payment_type,status
+PAY001,D1001,2026-06-03,60000.00,prepayment,paid
+PAY002,D1003,2026-06-08,236000.00,full,paid
+PAY003,D1005,2026-06-06,100000.00,prepayment,paid
+PAY004,D1002,2026-06-06,30000.00,prepayment,pending
+PAY005,D9999,2026-06-09,15000.00,unknown,paid
+PAY006,D1010,2026/06/15,-5000.00,correction,paid

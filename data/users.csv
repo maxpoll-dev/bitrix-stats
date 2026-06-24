@@ -1,0 +1,6 @@
+user_id,name,role,active,department,email
+U10,Иван Петров,sales_manager,true,Продажи,ivan.petrov@example.local
+U11,Анна Соколова,sales_manager,true,Продажи,anna.sokolova@example.local
+U12,Дмитрий Волков,sales_manager,false,Продажи,d.volkov@example.local
+U20,Ольга Маркова,production_manager,true,Производство,olga.markova@example.local
+U30,Сергей Логинов,director,true,Руководство,sergey.loginov@example.local
