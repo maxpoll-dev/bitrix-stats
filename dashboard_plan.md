@@ -1,4 +1,4 @@
-# План API (отчётный слой)
+# План API
 
 Тонкий read-only API поверх схемы `main`. Каждый отчёт из `reports.sql` →
 один эндпоинт. Стек — NestJS + PostgreSQL.
